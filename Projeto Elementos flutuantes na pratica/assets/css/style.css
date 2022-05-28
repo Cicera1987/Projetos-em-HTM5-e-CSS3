@@ -4,9 +4,25 @@ body{
 }
 .cabecalho{
     background: #fff;
-    padding: 5px;
+    width: 920px;
+    padding: 10px;
+}
+.principal{
+    background: #fff;
+    width: 920px;
+    padding: 10px;
+    border: 2px solid grey;
+}
+.noticia{
+    background: #e5e5e5;
+    width: 280px;
+    margin: 10px;
+
 }
 
+h1{
+    color: rgb(68, 64, 64);
+}
 p{
-    margin-left: 5px;
+    margin-left: 10px;
 }
