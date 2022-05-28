@@ -1,0 +1,15 @@
+body {
+  background: rgb(245, 245, 245);
+}
+
+.l-main {
+  background-color: cadetblue;
+}
+
+.c-list {
+  color: black;
+}
+
+.c-list_item {
+  color: blue;
+}
