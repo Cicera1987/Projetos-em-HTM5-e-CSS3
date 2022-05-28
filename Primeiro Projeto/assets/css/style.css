@@ -11,5 +11,8 @@ body {
 }
 
 .c-list_item {
-  color: blue;
+  color: rgb(231, 231, 236);
+  text-decoration: none;
+  font-weight: bold;
+
 }
