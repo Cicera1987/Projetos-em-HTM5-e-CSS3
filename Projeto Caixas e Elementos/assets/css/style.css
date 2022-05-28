@@ -1,0 +1,61 @@
+body{
+    background: #c5c5c5;
+
+
+}
+
+.conteudo{
+    background: rgb(68, 68, 233);
+    border: 1px solid rgb(2, 4, 10);
+    color: #c5c5c5;
+    padding:10px 5px;
+    margin: 10px;  
+    width: 150px;
+}
+
+#principal{
+    border: 5px solid red;
+    background: green;
+}
+
+.flutuante01{
+    background: red;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+}
+.flutuante02{
+    background: blue;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+}
+.flutuante03{
+    background: black;
+    color: beige;
+    border: 1px solid gray;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+}
+.clear{
+    clear: left;
+    margin: 10px;
+
+}
+
+footer{
+    background-color: rgb(57, 58, 58);
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+
