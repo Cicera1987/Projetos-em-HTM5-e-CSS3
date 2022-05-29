@@ -7,4 +7,8 @@ Treinando HTML e CSS
 🚀Primeiro Projeto<br>
 🚀Projeto Annna Belle<br>
 🚀Projeto Caixas e Elementos flutuantes<br>
-🚀Elementos flutuantes na prática<br>
+🚀Projeto Caixas e Elementos flutuantes na pratica<br>
+🚀Formatanto links<br>
+🚀Posicionamentos html<br>
+🚀Sobrepondo Elementos<br>
+🚀Criando barra de navegação vertical<br>
