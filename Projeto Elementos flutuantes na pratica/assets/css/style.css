@@ -1,22 +1,37 @@
 body{
-    background: rgb(137, 193, 201);
+    background: #fff;;
     font-family: Arial, Helvetica, sans-serif;
 }
 .cabecalho{
     background: #fff;
     width: 920px;
     padding: 10px;
+    margin: 10px 8px;
 }
 .principal{
     background: #fff;
     width: 920px;
     padding: 10px;
-    border: 2px solid grey;
+    margin: 7px;
+    
 }
 .noticia{
     background: #e5e5e5;
-    width: 280px;
-    margin: 10px;
+    width: 285px;
+    margin: 7px;
+    float: left;
+
+}
+.img-galeria{
+    background: rgb(238, 233, 218);
+    width: 265px;
+    padding: 5px;
+    margin: 15px;
+    float: left;
+}
+.clear{
+    clear: both;
+    
 
 }
 
