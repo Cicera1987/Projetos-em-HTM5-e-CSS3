@@ -1,4 +1,4 @@
-# Projetos em HTM5 e CC3
+# Projetos em HTM5 e CSS3
 
 Treinando HTML e CSS
 
