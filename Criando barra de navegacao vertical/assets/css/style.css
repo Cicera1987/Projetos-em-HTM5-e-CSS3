@@ -15,5 +15,9 @@ ul {
 
 li {
     padding:5px 20px;
+    text-decoration: none;
     background: url(../img/seta.png) no-repeat left center;
+}
+a{
+    text-decoration: none;
 }
