@@ -1,29 +1,32 @@
 body{
-    background: #fff;;
+    background: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .cabecalho{
-    background: #fff;
+    background: white;
     width: 920px;
     padding: 10px;
     margin: 10px 8px;
 }
+
 .principal{
-    background: #fff;
+    background: white;
     width: 920px;
     padding: 10px;
-    margin: 7px;
-    
+    margin: 7px;    
 }
+
 .noticia{
     background: #e5e5e5;
-    width: 285px;
+    width: 280px;
+    padding: 5px;
     margin: 7px;
     float: left;
-
 }
+
 .img-galeria{
-    background: rgb(238, 233, 218);
+    background: #e5e5e5;
     width: 265px;
     padding: 5px;
     margin: 15px;
@@ -31,8 +34,6 @@ body{
 }
 .clear{
     clear: both;
-    
-
 }
 
 h1{
