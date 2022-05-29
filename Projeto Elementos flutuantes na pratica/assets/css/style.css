@@ -14,7 +14,8 @@ body{
     background: white;
     width: 920px;
     padding: 10px;
-    margin: 7px;    
+    margin: 7px;
+    border: 2px solid rgb(41, 39, 39);    
 }
 
 .noticia{
@@ -36,8 +37,8 @@ body{
     clear: both;
 }
 
-h1{
-    color: rgb(68, 64, 64);
+h1 {
+    color: rgb(41, 39, 39);
 }
 p{
     margin-left: 10px;
